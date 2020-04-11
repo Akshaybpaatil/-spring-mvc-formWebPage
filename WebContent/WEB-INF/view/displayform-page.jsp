@@ -4,7 +4,7 @@
 <title>Web Page Input Form</title>
 </head>
 <body>
-   <form action="processForm" method="GET">
+   <form action="processFormWithModel" method="GET">
         <input type="text" name="EmployeeName"
         placeholder="What is your name?"/>
         <input type="submit">

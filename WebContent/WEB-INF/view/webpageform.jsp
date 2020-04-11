@@ -7,6 +7,9 @@ Hello world of Spring!
 
 Employee Name : ${param.EmployeeName }
 
+<br><br>
+
+The Message:${message}
 
 </body>
 </html>
